@@ -1,4 +1,4 @@
-# 👁️ Canlı Yüz Tanıma & Güvenlik Sistemi (C# & OpenCvSharp)
+# 👁️ Canlı Yüz Tanıma (C# & OpenCvSharp)
 
 ![Görüntü İşleme Projesi Görseli: Ekranda yüzün etrafında tanıma kutusu gösteren bir uygulama arayüzü temsili görseli]
 
