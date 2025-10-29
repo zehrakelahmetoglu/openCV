@@ -1,7 +1,5 @@
 # 👁️ Canlı Yüz Tanıma (C# & OpenCvSharp)
 
-![Görüntü İşleme Projesi Görseli: Ekranda yüzün etrafında tanıma kutusu gösteren bir uygulama arayüzü temsili görseli]
-
 Hızlı ve güvenilir **Bilgisayarlı Görme (Computer Vision)** uygulamaları geliştirmek için tasarlanmış bu proje, C# ve güçlü **OpenCvSharp** kütüphanesini bir araya getirerek gerçek zamanlı, tek kullanıcılı bir yüz tanıma çözümü sunar. Erişim kontrolü, kişisel güvenlik sistemleri ve temel biyometrik doğrulama için ideal bir başlangıç noktasıdır.
 
 **ÖNE ÇIKAN ÖZELLİKLER**
