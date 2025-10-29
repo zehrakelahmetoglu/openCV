@@ -4,7 +4,7 @@
 
 Hızlı ve güvenilir **Bilgisayarlı Görme (Computer Vision)** uygulamaları geliştirmek için tasarlanmış bu proje, C# ve güçlü **OpenCvSharp** kütüphanesini bir araya getirerek gerçek zamanlı, tek kullanıcılı bir yüz tanıma çözümü sunar. Erişim kontrolü, kişisel güvenlik sistemleri ve temel biyometrik doğrulama için ideal bir başlangıç noktasıdır.
 
-**ÖNE ÇIKAN ÖZELLİKLER
+**ÖNE ÇIKAN ÖZELLİKLER**
 
 
 | ⚡ **Gerçek Zamanlı İşleme** | Kameradan alınan video akışını milisaniyeler içinde işler. |
@@ -13,7 +13,7 @@ Hızlı ve güvenilir **Bilgisayarlı Görme (Computer Vision)** uygulamaları g
 | 👤 **Tek Kullanıcı Doğrulama** | Eğitilmiş model üzerinden kullanıcının kimliğini doğrulayarak sonuç verir. |
 | 🖥️ **Kullanıcı Dostu Arayüz** | Windows Forms (WinForms) tabanlı temiz ve basit bir arayüze sahiptir. |
 
-**PROJEYİ BAŞLATMA REHBERİ
+**PROJEYİ BAŞLATMA REHBERİ**
 
 Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip edin.
 
@@ -46,7 +46,7 @@ Uygulamayı çalıştırdıktan sonra (F5):
 2.  **Yüzünüzü Kaydedin:** Yüzünüz kameradayken **"Yüzümü Kaydet"** butonuna basın. Uygulama, sayaç 20'ye ulaşana kadar yüzünüzün farklı açılarını kaydedecektir.
 3.  **Modeli Eğitin:** Kayıt tamamlandığında, **"Tanımayı Başlat"** butonuna tıklayın. Model eğitilecek ve anında tanıma moduna geçecektir.
 
-**PROJE YAPISI
+**PROJE YAPISI**
 
 | `Form1.cs` | Ana C# Form kodu. Tüm kamera, işleme ve UI mantığını içerir. |
 | `haarcascade_frontalface_default.xml` | Yüz tespiti için kullanılan önceden eğitilmiş model. |
